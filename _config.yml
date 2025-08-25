@@ -23,13 +23,13 @@ repository               : "smai-noff/smai-noff.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Matthew Seo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "2nd year math major"
+  location         : "Pleasanton, CA"
+  employer         : "Las Positas College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "smfinoff26@gmail.com" 
 
   # Academic websites
   academia         : # URL
